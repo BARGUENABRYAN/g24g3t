@@ -1,1 +1,2 @@
-# g24g3t
+#ciência de dados 
+LUCAS FERREIRA PASSAFARO e BRYAN NAAMÃ BARGUENA
